@@ -1,1 +1,1 @@
-# Crowd-prediction-MC_CNN
+# 군중 밀집도 모니터링 및 경고 시스템
